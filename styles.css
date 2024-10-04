@@ -1,5 +1,5 @@
 .modal {
-  display: block; /* Initially hidden */
+  display: none; /* Initially hidden */
   position: fixed;
   z-index: 1; /* On top of other elements */
   left: 0;
