@@ -1,6 +1,5 @@
-/*  your css code here. If applicable */
 .modal {
-  display: none; /* Initially hidden */
+  display: block; /* Initially hidden */
   position: fixed;
   z-index: 1; /* On top of other elements */
   left: 0;
